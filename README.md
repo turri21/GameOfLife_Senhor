@@ -1,3 +1,8 @@
+-=(GameOfLife_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # Conway's Game Of Life
 
 **John H. Conway** (1937 - 2020), an English mathematician is well known for creating a cellular automaton known as the Game of Life. Sadly, he recently passed away due to complications from Covid-19 and this little project is a tribute to him.
